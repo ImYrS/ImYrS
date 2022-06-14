@@ -1,4 +1,8 @@
 ![ImYrS Github Stats](https://github-readme-stats.vercel.app/api?username=ImYrS&count_private=true&hide=prs,issues&show_icons=true&theme=tokyonight)
+
+> 主动选择孤独的人不孤独  
+> 努力合群的人才孤独
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -86,5 +90,3 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
  Last Updated on 14/06/2022 18:25:43 UTC
 <!--END_SECTION:waka-->
-> 主动选择孤独的人不孤独  
-> 努力合群的人才孤独
