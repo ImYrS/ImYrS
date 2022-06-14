@@ -19,5 +19,5 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 2
           SHOW_LOC_CHART: false
