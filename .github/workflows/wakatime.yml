@@ -21,4 +21,4 @@ jobs:
           SHOW_EDITORS: false
           SYMBOL_VERSION: 2
           SHOW_LOC_CHART: false
-          LOCALE: 'zh'
+          LOCALE: 'en'
